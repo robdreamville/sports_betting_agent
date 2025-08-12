@@ -83,7 +83,15 @@ The project is designed to be run from a single entry point.
 
 **1. Configure Your Strategy (Optional):**
 
-Open `config.json`. You can change the `analysis_persona` and `instructions` to modify the agent's tone and focus. Most importantly, you can re-order the `search_priorities` by changing the numbers (1 is highest priority).
+A `config.json` file is used to customize the agent's analytical strategy. An example `config.json` is provided in the repository.
+
+**Important:** Your personal `config.json` (which contains your specific `search_priorities` and `analysis_persona`) should **not** be committed to version control if you wish to keep your strategy private. It is already included in the `.gitignore` file.
+
+To configure your strategy:
+- Create your own `config.json` file in the project root if one doesn't exist.
+- You can change the `analysis_persona` and `instructions` to modify the agent's tone and focus.
+- Most importantly, you can re-order the `search_priorities` by changing the numbers (1 is highest priority).
+
 
 **2. Run the Agent:**
 
