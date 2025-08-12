@@ -1,0 +1,162 @@
+[
+  {
+    "match_id": "f37021de21572159764157dbf2e5ae62",
+    "sport_key": "soccer_epl",
+    "teams": [
+      "Liverpool",
+      "Bournemouth"
+    ],
+    "commence_time": "2025-08-15T19:00:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "away": 702,
+      "home": -319,
+      "draw": 484
+    },
+    "fetched_at": "2025-08-10T07:39:33.998885"
+  },
+  {
+    "match_id": "ef104c6285d1e04833a848d273a7b4ae",
+    "sport_key": "soccer_epl",
+    "teams": [
+      "Aston Villa",
+      "Newcastle United"
+    ],
+    "commence_time": "2025-08-16T11:30:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "home": 128,
+      "away": 199,
+      "draw": 261
+    },
+    "fetched_at": "2025-08-10T07:39:33.998885"
+  },
+  {
+    "match_id": "ad4a48da31810362af7fe32298725571",
+    "sport_key": "soccer_epl",
+    "teams": [
+      "Brighton and Hove Albion",
+      "Fulham"
+    ],
+    "commence_time": "2025-08-16T14:00:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "home": -112,
+      "away": 293,
+      "draw": 271
+    },
+    "fetched_at": "2025-08-10T07:39:33.998885"
+  },
+  {
+    "match_id": "08ec2d2a8e67840bb3ab0e733ef2f58f",
+    "sport_key": "soccer_epl",
+    "teams": [
+      "Tottenham Hotspur",
+      "Burnley"
+    ],
+    "commence_time": "2025-08-16T14:00:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "away": 743,
+      "home": -285,
+      "draw": 403
+    },
+    "fetched_at": "2025-08-10T07:39:33.998885"
+  },
+  {
+    "match_id": "86a8812bc657e2b8c75bf77880a5cf3d",
+    "sport_key": "soccer_epl",
+    "teams": [
+      "Sunderland",
+      "West Ham United"
+    ],
+    "commence_time": "2025-08-16T14:00:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "home": 217,
+      "away": 125,
+      "draw": 244
+    },
+    "fetched_at": "2025-08-10T07:39:33.998885"
+  },
+  {
+    "match_id": "7f3f540489885d028ec9395ba46ee95b",
+    "sport_key": "soccer_epl",
+    "teams": [
+      "Wolverhampton Wanderers",
+      "Manchester City"
+    ],
+    "commence_time": "2025-08-16T16:30:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "away": -225,
+      "home": 546,
+      "draw": 376
+    },
+    "fetched_at": "2025-08-10T07:39:33.998885"
+  },
+  {
+    "match_id": "eb357add4cbd1823e64186800ab46b13",
+    "sport_key": "soccer_epl",
+    "teams": [
+      "Nottingham Forest",
+      "Brentford"
+    ],
+    "commence_time": "2025-08-17T13:00:00Z",
+    "bookmaker": "Unibet",
+    "odds": {
+      "away": 240,
+      "home": 106,
+      "draw": 260
+    },
+    "fetched_at": "2025-08-10T07:39:33.998885"
+  },
+  {
+    "match_id": "96395d8faab66cf7b72830844f66eda7",
+    "sport_key": "soccer_epl",
+    "teams": [
+      "Chelsea",
+      "Crystal Palace"
+    ],
+    "commence_time": "2025-08-17T13:00:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "home": -194,
+      "away": 473,
+      "draw": 349
+    },
+    "fetched_at": "2025-08-10T07:39:33.998885"
+  },
+  {
+    "match_id": "4c489c20064afdb4a5623dff80c6c2d7",
+    "sport_key": "soccer_epl",
+    "teams": [
+      "Manchester United",
+      "Arsenal"
+    ],
+    "commence_time": "2025-08-17T15:30:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "away": 112,
+      "home": 236,
+      "draw": 257
+    },
+    "fetched_at": "2025-08-10T07:39:33.998885"
+  },
+  {
+    "match_id": "92020926e46ec2ebdc748d01a37a17b2",
+    "sport_key": "soccer_epl",
+    "teams": [
+      "Leeds United",
+      "Everton"
+    ],
+    "commence_time": "2025-08-18T19:00:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "away": 187,
+      "home": 157,
+      "draw": 221
+    },
+    "fetched_at": "2025-08-10T07:39:33.998885"
+  }
+]

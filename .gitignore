@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Database
+*.db
+*.sqlite3
+/soccer_analysis.db
+
+# IDE-specific files (e.g., VS Code)
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+#config files
+config.json

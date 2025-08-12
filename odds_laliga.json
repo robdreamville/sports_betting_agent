@@ -1,0 +1,162 @@
+[
+  {
+    "match_id": "c4198d00081ef7586ec5088c547a23dd",
+    "sport_key": "soccer_spain_la_liga",
+    "teams": [
+      "Girona",
+      "Rayo Vallecano"
+    ],
+    "commence_time": "2025-08-15T17:00:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "home": 133,
+      "away": 223,
+      "draw": 222
+    },
+    "fetched_at": "2025-08-10T07:39:34.114242"
+  },
+  {
+    "match_id": "3723cad1a66e1ce8f0ef45f79a7c32bb",
+    "sport_key": "soccer_spain_la_liga",
+    "teams": [
+      "Villarreal",
+      "Oviedo"
+    ],
+    "commence_time": "2025-08-15T19:30:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "away": 731,
+      "home": -267,
+      "draw": 378
+    },
+    "fetched_at": "2025-08-10T07:39:34.114242"
+  },
+  {
+    "match_id": "e173887f1a12b6a0e98cb16edd5fd4ba",
+    "sport_key": "soccer_spain_la_liga",
+    "teams": [
+      "Alav\u00e9s",
+      "Levante"
+    ],
+    "commence_time": "2025-08-16T15:00:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "home": 127,
+      "away": 258,
+      "draw": 204
+    },
+    "fetched_at": "2025-08-10T07:39:34.114242"
+  },
+  {
+    "match_id": "98738a501162833cfda3dd5987e7bbe8",
+    "sport_key": "soccer_spain_la_liga",
+    "teams": [
+      "Mallorca",
+      "Barcelona"
+    ],
+    "commence_time": "2025-08-16T17:30:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "away": -181,
+      "home": 442,
+      "draw": 340
+    },
+    "fetched_at": "2025-08-10T07:39:34.114242"
+  },
+  {
+    "match_id": "f3d481ed9bd49829718585f6b372cf67",
+    "sport_key": "soccer_spain_la_liga",
+    "teams": [
+      "Valencia",
+      "Real Sociedad"
+    ],
+    "commence_time": "2025-08-16T19:30:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "away": 208,
+      "home": 174,
+      "draw": 179
+    },
+    "fetched_at": "2025-08-10T07:39:34.114242"
+  },
+  {
+    "match_id": "bf93792eb89a9564cef6a853f0a12e28",
+    "sport_key": "soccer_spain_la_liga",
+    "teams": [
+      "Celta Vigo",
+      "Getafe"
+    ],
+    "commence_time": "2025-08-17T15:00:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "home": -159,
+      "away": 499,
+      "draw": 263
+    },
+    "fetched_at": "2025-08-10T07:39:34.114242"
+  },
+  {
+    "match_id": "464babcb400ae952b588caadda9c36e7",
+    "sport_key": "soccer_spain_la_liga",
+    "teams": [
+      "Athletic Bilbao",
+      "Sevilla"
+    ],
+    "commence_time": "2025-08-17T17:30:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "home": -162,
+      "away": 468,
+      "draw": 284
+    },
+    "fetched_at": "2025-08-10T07:39:34.114242"
+  },
+  {
+    "match_id": "0595f56cfe72699dc094ca05733d7b92",
+    "sport_key": "soccer_spain_la_liga",
+    "teams": [
+      "Espanyol",
+      "Atl\u00e9tico Madrid"
+    ],
+    "commence_time": "2025-08-17T19:30:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "away": -198,
+      "home": 575,
+      "draw": 310
+    },
+    "fetched_at": "2025-08-10T07:39:34.114242"
+  },
+  {
+    "match_id": "82a64ba0ed7b1303620d3a5c7569b434",
+    "sport_key": "soccer_spain_la_liga",
+    "teams": [
+      "Elche CF",
+      "Real Betis"
+    ],
+    "commence_time": "2025-08-18T19:00:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "home": 265,
+      "away": 108,
+      "draw": 239
+    },
+    "fetched_at": "2025-08-10T07:39:34.114242"
+  },
+  {
+    "match_id": "f87448c662690574c9930af99d743f4b",
+    "sport_key": "soccer_spain_la_liga",
+    "teams": [
+      "Real Madrid",
+      "CA Osasuna"
+    ],
+    "commence_time": "2025-08-19T19:00:00Z",
+    "bookmaker": "Pinnacle",
+    "odds": {
+      "away": 983,
+      "home": -408,
+      "draw": 522
+    },
+    "fetched_at": "2025-08-10T07:39:34.114242"
+  }
+]
